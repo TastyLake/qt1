@@ -33,7 +33,7 @@ MainWindow::MainWindow(QWidget* parent)
     radioButton1->setText("Option A");
     radioButton2->setText("Option B");
 
-    // Âûïàäàþùèé ñïèñîê
+    // Ã‚Ã»Ã¯Ã Ã¤Ã Ã¾Ã¹Ã¨Ã© Ã±Ã¯Ã¨Ã±Ã®Ãª
     comboBox->addItem("Item 1");
     comboBox->addItem("Item 2");
     comboBox->addItem("Item 3");
